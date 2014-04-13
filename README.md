@@ -20,7 +20,16 @@ fizzbuzz = FizzBuzz(
 # FizzBuzz generator into a list
 fizzbuzz_output = list(fizzbuzz.generate(limit=100))
 
+# Get a string of FizzBuzz, optionally specifying separator
+fizzbuzz_string = fizzbuzz.string(
+    limit=100,
+    separator="\n"
+)
+
 # Print out FizzBuzz, optionally specifying separator
-fizzbuzz.output(separator="\n")
+fizzbuzz.print_output(
+    limit=100,
+    separator="\n"
+)
 
 ```
