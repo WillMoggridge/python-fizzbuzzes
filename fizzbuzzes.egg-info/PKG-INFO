@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: fizzbuzzes
+Version: 0.1dev
+Summary: Return fizzbuzz created by a variety of methods!
+Home-page: https://github.com/willmoggridge/python-fizzbuzzes
+Author: Will Moggridge
+Author-email: will@willmoggridge.com
+License: GPU GNLv3
+Description: Return FizzBuz created by a variety of methods! This is mostly a fun project to have fun with Python.
+Keywords: fizz buzz fizzbuzz
+Platform: UNKNOWN
