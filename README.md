@@ -6,6 +6,8 @@ This Python package is designed to return FizzBuzz from a variety of methods!
 Mostly this is just a bit of fun inspired by [a post at reddit](http://www.reddit.com/r/python/comments/22m7ew/) about [this blog post](http://skien.cc/blog/2014/04/09/unpythonic-python/).
 The plan is to add silly methods to this now and again.
 
+I have created the template of this package with [PasteScript](https://pypi.python.org/pypi/PasteScript)
+
 
 Quick examples:
 
