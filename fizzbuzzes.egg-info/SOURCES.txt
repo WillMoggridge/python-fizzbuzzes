@@ -1,9 +1,0 @@
-setup.cfg
-setup.py
-python_fizzbuzzes.egg-info/PKG-INFO
-python_fizzbuzzes.egg-info/SOURCES.txt
-python_fizzbuzzes.egg-info/dependency_links.txt
-python_fizzbuzzes.egg-info/entry_points.txt
-python_fizzbuzzes.egg-info/not-zip-safe
-python_fizzbuzzes.egg-info/top_level.txt
-pythonfizzbuzzes/__init__.py
