@@ -23,7 +23,7 @@ class AbstractFizzBuzz(object):
         raise notImplementedError()
 
     def string(self, limit=100, separator="\n"):
-        fizzbuzz_list = list(self.generate(limit=limit))
+        fizzbuzz_list = self.generate(limit=limit)
         return str(separator).join(fizzbuzz_list)
 
     def print_output(self, limit=100, separator="\n"):
